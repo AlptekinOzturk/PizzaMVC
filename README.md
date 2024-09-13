@@ -9,15 +9,4 @@ Kullanıcı Girişi: Kayıt olma ve giriş yapma seçenekleri.
 Yönetici Paneli: Menü ve siparişleri yönetme.
 
 
-------------------------
-admin k.adı : hsynunver
-şifre: hsynunver
-User k.adı: deneme
-user şifre: deneme
-------------------------
 
-
-WebConfing içerisindeki server ismini değiştirip çalıştırmayı unutmayınız.
-Herhangi bir soru veya öneriniz için benimle iletişime geçebilirsiniz:
-
-E-posta: huseyinnunver@gmail.com
